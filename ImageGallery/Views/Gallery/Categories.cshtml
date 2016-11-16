@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Categories";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Categories</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>
+                Id
+            </td>
+            <td>
+                Name
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var category in Model.Data.Categories)
+    {
+        <tr>
+            <td>@category.Id</td>
+            <td><a href="~/Gallery/CategoryImages/@category.Name">@category.Name</a></td>
+        </tr>
+    }
+    </tbody>
+</table>
+

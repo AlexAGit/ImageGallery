@@ -1,0 +1,15 @@
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\ImageGallery.Tests.dll
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\ImageGallery.Tests.pdb
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\Castle.Core.dll
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\ImageGallery.ApiDataAccess.dll
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\ImageGallery.GenericDataAccess.dll
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\Moq.dll
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\nunit.framework.dll
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\ImageGallery.ApiDataAccess.pdb
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\ImageGallery.GenericDataAccess.pdb
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\Castle.Core.xml
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\Moq.xml
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\bin\Debug\nunit.framework.xml
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\obj\Debug\ImageGallery.Tests.csprojResolveAssemblyReference.cache
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\obj\Debug\ImageGallery.Tests.dll
+C:\Users\AlexA\Documents\Visual Studio 2015\Projects\ImageGallery\ImageGallery.Tests\obj\Debug\ImageGallery.Tests.pdb
