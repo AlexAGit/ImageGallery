@@ -1,4 +1,0 @@
-c:\users\alexa\documents\visual studio 2015\Projects\ImageGallery\ImageGallery.DataAccess\bin\Debug\ImageGallery.DataAccess.dll
-c:\users\alexa\documents\visual studio 2015\Projects\ImageGallery\ImageGallery.DataAccess\bin\Debug\ImageGallery.DataAccess.pdb
-c:\users\alexa\documents\visual studio 2015\Projects\ImageGallery\ImageGallery.DataAccess\obj\Debug\ImageGallery.DataAccess.dll
-c:\users\alexa\documents\visual studio 2015\Projects\ImageGallery\ImageGallery.DataAccess\obj\Debug\ImageGallery.DataAccess.pdb
